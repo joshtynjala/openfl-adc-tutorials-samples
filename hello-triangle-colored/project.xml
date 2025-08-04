@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+    <meta title="HelloTriangleColored" package="com.example.HelloTriangleColored"/>
+    <app main="HelloTriangleColored"/>
+    
+    <window allow-high-dpi="true"/>
+    <window fps="60"/>
+    <window fps="0" if="html5"/>
+    
+    <source path="src"/>
+    
+    <haxelib name="openfl"/>
+</project>

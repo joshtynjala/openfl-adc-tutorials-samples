@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+    <meta title="HelloTriangleTextured" package="com.example.HelloTriangleTextured"/>
+    <app main="HelloTriangleTextured"/>
+    
+    <window allow-high-dpi="true"/>
+    <window fps="60"/>
+    <window fps="0" if="html5"/>
+    
+    <source path="src"/>
+    
+    <haxelib name="openfl"/>
+
+    <assets path="assets/img/RockSmooth.jpg"/>
+</project>
