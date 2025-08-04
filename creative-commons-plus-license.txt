@@ -1,0 +1,21 @@
+Creative Commons Plus License for Adobe example code.
+
+The attribution (by) and share alike (sa) requirement of the license remain
+unchanged, however
+
+You may re-use any of the examples of code from this work in your products,
+commercial or not (nc).
+
+You can only re-use the description of the code (title, metadata and text
+describing the code, etc.) based on the Creative Commons
+Attribution-Noncommercial-Share Alike 3.0 Unported License. You may not take and
+use the description of the code and use it commercially without the author's
+permission.
+
+THE EXAMPLES OF CODE ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
